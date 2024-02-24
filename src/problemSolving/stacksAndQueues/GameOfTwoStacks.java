@@ -1,5 +1,5 @@
 // https://www.hackerrank.com/challenges/game-of-two-stacks/problem
-package problemSolving.stacks;
+package problemSolving.stacksAndQueues;
 import java.util.Arrays;
 
 public class GameOfTwoStacks {
