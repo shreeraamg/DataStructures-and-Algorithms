@@ -1,6 +1,6 @@
 # Data Structures and Algorithms
 
-### [Solved Problems](src/problemSolving/questions/Questions.md)
+### [Solved Problems](./src/problemSolving/Questions.md)
 
 ### Topics Covered in this repository
 - [ ] Object Oriented Programming
