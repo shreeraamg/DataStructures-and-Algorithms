@@ -1,4 +1,5 @@
 ## 2D Arrays
 
-- [Flood Fill Algorithm](./FloodFill.java) [`Leetcode`](https://leetcode.com/problems/flood-fill/description/)
+- [Flood Fill Algorithm](./FloodFill.java) &emsp; [`Leetcode`](https://leetcode.com/problems/flood-fill/description/)
 - [Square Matrix Rotation](./SquareMatrixRotation.java)
+- [Max Points on a Line](./MaxPointsInLine.java) &emsp; [`Leetcode`](https://leetcode.com/problems/max-points-on-a-line/description/) [`Geeks for Geeks`](https://www.geeksforgeeks.org/count-maximum-points-on-same-line/)
