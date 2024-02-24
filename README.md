@@ -9,21 +9,37 @@
   - [ ] Inheritance
   - [ ] Polymorphism
   - [ ] Abstractions
-  - [ ] Inheritance
+  - [ ] Interface
   - [ ] Static Keyword
   - [ ] Collections Framework
   - [ ] Generics
   - [ ] Garbage Collection
   - [ ] Exception Handling
-- [ ] Data Structures
+  - [ ] Lambda Expressions
+  - [ ] Access Control
+  - [ ] Packages
+  - [ ] Enums
+  - [ ] Vector Class
+- [ ] Data Structures & Algorithms
   - [ ] Arrays
     - [ ] One dimensional
     - [ ] Two dimensional
+    - [ ] Searching Algorithms
+      - [ ] Linear Search
+      - [ ] Binary Search
+    - [ ] Sorting Algorithms
+      - [ ] Bubble Sort
+      - [ ] Selection Sort
+      - [ ] Insertion Sort
+      - [ ] Cyclic Sort
+      - [ ] Merge Sort
+      - [ ] Quick Sort
   - [ ] Linked List
     - [ ] Singly Linked List
     - [ ] Doubly Linked List
     - [ ] Circular Linked List
     - [ ] Singly Linked List (with tail)
+    - [ ] Recursion in Linked List
   - [ ] Stack
     - [ ] Stack (using array)
     - [ ] Dynamic Stack (using array)
@@ -32,6 +48,24 @@
   - [ ] Queue
     - [ ] Queue (using array)
     - [ ] Dynamic Queue (using array)
+    - [ ] Circular Queue
     - [ ] Queue (using linked list)
     - [x] [Queue (using stack)](src/dataStructures/QueueUsingStacks.java)
     - [ ] Deque - Doubly Ended Queue
+  - [ ] Trees
+    - [ ] Binary Trees
+    - [ ] Binary Search Trees
+    - [ ] AVL Trees
+    - [ ] Segment Trees
+    - [ ] Algorithms
+      - [ ] Breadth First Search (BFS)
+      - [ ] Depth First Search (DFS)
+- [ ] Recursion
+  - [ ] Introduction & Basics
+  - [ ] [Head & Tail Recursion](./src/problemSolving/recursion/PrintingNumbers.java)
+  - [ ] Recursion with String
+  - [ ] Recursion with Arrays
+  - [ ] Recursion with Patterns
+  - [ ] Recursion Subsets
+  - [ ] Backtracking
+  - 
