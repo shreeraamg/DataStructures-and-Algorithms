@@ -28,8 +28,8 @@
       - [ ] Linear Search
       - [ ] Binary Search
     - [ ] Sorting Algorithms
-      - [ ] Bubble Sort
-      - [ ] Selection Sort
+      - [x] [Bubble Sort](src/algorithms/sorting/BubbleSort.java)
+      - [x] [Selection Sort](src/algorithms/sorting/SelectionSort.java)
       - [ ] Insertion Sort
       - [ ] Cyclic Sort
       - [ ] Merge Sort
@@ -64,8 +64,7 @@
   - [ ] Introduction & Basics
   - [ ] [Head & Tail Recursion](./src/problemSolving/recursion/PrintingNumbers.java)
   - [ ] Recursion with String
-  - [ ] Recursion with Arrays
+  - [x] [Recursion with Arrays](src/problemSolving/recursion/GenerateParentheses.java)
   - [ ] Recursion with Patterns
   - [ ] Recursion Subsets
   - [ ] Backtracking
-  - 
