@@ -6,3 +6,4 @@
 - [Print the given matrix in ZigZag Order](./ZigZagMatrix.java) &emsp; [`Leetcode`](https://leetcode.com/problems/diagonal-traverse/description/)
 - [Calculate all Paths in Maze](./MazeCountPaths.java)
 - [Snake Matrix](./SnakeMatrix.java)
+- [Set Matrix Zeroes](./SetMatrixZero.java) &emsp; [`Leetcode`](https://leetcode.com/problems/set-matrix-zeroes/description/)
