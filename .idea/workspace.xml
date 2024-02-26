@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="05173ef2-1a0f-4b6b-814d-f30f0dae279c" name="Changes" comment="Solved: Max Points on a Line">
-      <change afterPath="$PROJECT_DIR$/src/problemSolving/linkedlist/MaximumTwinSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problemSolving/linkedlist/questions.md" afterDir="false" />
+    <list default="true" id="05173ef2-1a0f-4b6b-814d-f30f0dae279c" name="Changes" comment="Solved: Array Partition, Best time to buy &amp; sell">
+      <change afterPath="$PROJECT_DIR$/src/algorithms/sorting/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/sorting/QuickSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problemSolving/stacksAndQueues/questions.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/problemSolving/stacksAndQueues/questions.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,10 +59,15 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ArrayPartitionPivot.executor": "Debug",
+    "Application.BestTimeToBuySell.executor": "Run",
+    "Application.BubbleSort.executor": "Run",
     "Application.Factorial.executor": "Run",
     "Application.FibonacciNumber.executor": "Run",
     "Application.FloodFill.executor": "Run",
     "Application.GameOfTwoStacks.executor": "Run",
+    "Application.GenerateParentheses.executor": "Run",
+    "Application.InsertionSort.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MaxPointsInLine.executor": "Run",
     "Application.MaximumTwinSum.executor": "Run",
@@ -70,7 +75,15 @@
     "Application.NearestLeadingCharacter.executor": "Run",
     "Application.NextGreaterElement1.executor": "Run",
     "Application.PrintingNumbers.executor": "Run",
+    "Application.QuickSort.executor": "Debug",
+    "Application.RemoveOutermostParentheses.executor": "Run",
+    "Application.RemoveStars.executor": "Run",
+    "Application.SelectionSort.executor": "Run",
+    "Application.SetMatrixZero.executor": "Run",
+    "Application.SnakeMatrix.executor": "Run",
     "Application.SquareMatrixRotation.executor": "Run",
+    "Application.SubStringMatchingGivenNumber.executor": "Run",
+    "Application.ZigZagMatrix.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -79,55 +92,9 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.MaximumTwinSum">
-    <configuration name="FibonacciNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problemSolving.recursion.FibonacciNumber" />
-      <module name="DataStructures and Algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="problemSolving.recursion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="DataStructures and Algorithms" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MaxPointsInLine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problemSolving.twoDimensionalArray.MaxPointsInLine" />
-      <module name="DataStructures and Algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="problemSolving.twoDimensionalArray.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MaximumTwinSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problemSolving.linkedlist.MaximumTwinSum" />
-      <module name="DataStructures and Algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="problemSolving.linkedlist.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NearestLeadingCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problemSolving.arrays.NearestLeadingCharacter" />
+  <component name="RunManager" selected="Application.InsertionSort">
+    <configuration name="BestTimeToBuySell" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problemSolving.arrays.BestTimeToBuySell" />
       <module name="DataStructures and Algorithms" />
       <extension name="coverage">
         <pattern>
@@ -139,13 +106,65 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithms.sorting.InsertionSort" />
+      <module name="DataStructures and Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorithms.sorting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithms.sorting.QuickSort" />
+      <module name="DataStructures and Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorithms.sorting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SetMatrixZero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problemSolving.twoDimensionalArray.SetMatrixZero" />
+      <module name="DataStructures and Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="problemSolving.twoDimensionalArray.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SnakeMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problemSolving.twoDimensionalArray.SnakeMatrix" />
+      <module name="DataStructures and Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="problemSolving.twoDimensionalArray.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MaximumTwinSum" />
-        <item itemvalue="Application.MaxPointsInLine" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.NearestLeadingCharacter" />
-        <item itemvalue="Application.FibonacciNumber" />
+        <item itemvalue="Application.InsertionSort" />
+        <item itemvalue="Application.QuickSort" />
+        <item itemvalue="Application.SetMatrixZero" />
+        <item itemvalue="Application.SnakeMatrix" />
+        <item itemvalue="Application.BestTimeToBuySell" />
       </list>
     </recent_temporary>
   </component>
@@ -253,7 +272,103 @@
       <option name="project" value="LOCAL" />
       <updated>1708775318489</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Solved: Maximum Twin Sum of a Linked List">
+      <option name="closed" value="true" />
+      <created>1708781013368</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1708781013368</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Solved: Substring Matching Given Number">
+      <option name="closed" value="true" />
+      <created>1708781657351</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1708781657351</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Solved: Zigzag Matrix (Diagonal Traverse)">
+      <option name="closed" value="true" />
+      <created>1708791374549</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1708791374549</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Algorithm: Bubble &amp; Selection Sort">
+      <option name="closed" value="true" />
+      <created>1708838668547</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1708838668547</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Solved: Remove Outermost Parentheses">
+      <option name="closed" value="true" />
+      <created>1708838695435</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1708838695435</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Solved: Remove Stars from String">
+      <option name="closed" value="true" />
+      <created>1708840755393</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1708840755393</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Solved: Generate Parentheses">
+      <option name="closed" value="true" />
+      <created>1708849245847</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1708849245847</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Updated: Progress in Readme">
+      <option name="closed" value="true" />
+      <created>1708849479295</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1708849479295</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Solved Snake Pattern Matrix">
+      <option name="closed" value="true" />
+      <created>1708872699145</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1708872699145</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Solved: Set Matrix Zeroes">
+      <option name="closed" value="true" />
+      <created>1708874615938</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1708874615938</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Solved: Maximum Sub-array">
+      <option name="closed" value="true" />
+      <created>1708874786680</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1708874786680</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Solved: Array Partition, Best time to buy &amp; sell">
+      <option name="closed" value="true" />
+      <created>1708876315966</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1708876315968</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -294,6 +409,18 @@
     <MESSAGE value="Solved: Simple Recursion Problems" />
     <MESSAGE value="Solved: Nearest Leading Character" />
     <MESSAGE value="Solved: Max Points on a Line" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solved: Max Points on a Line" />
+    <MESSAGE value="Solved: Maximum Twin Sum of a Linked List" />
+    <MESSAGE value="Solved: Substring Matching Given Number" />
+    <MESSAGE value="Solved: Zigzag Matrix (Diagonal Traverse)" />
+    <MESSAGE value="Algorithm: Bubble &amp; Selection Sort" />
+    <MESSAGE value="Solved: Remove Outermost Parentheses" />
+    <MESSAGE value="Solved: Remove Stars from String" />
+    <MESSAGE value="Solved: Generate Parentheses" />
+    <MESSAGE value="Updated: Progress in Readme" />
+    <MESSAGE value="Solved Snake Pattern Matrix" />
+    <MESSAGE value="Solved: Set Matrix Zeroes" />
+    <MESSAGE value="Solved: Maximum Sub-array" />
+    <MESSAGE value="Solved: Array Partition, Best time to buy &amp; sell" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solved: Array Partition, Best time to buy &amp; sell" />
   </component>
 </project>

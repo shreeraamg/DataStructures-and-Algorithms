@@ -30,10 +30,10 @@
     - [ ] Sorting Algorithms
       - [x] [Bubble Sort](src/algorithms/sorting/BubbleSort.java)
       - [x] [Selection Sort](src/algorithms/sorting/SelectionSort.java)
-      - [ ] Insertion Sort
+      - [x] [Insertion Sort](src/algorithms/sorting/InsertionSort.java)
       - [ ] Cyclic Sort
       - [ ] Merge Sort
-      - [ ] Quick Sort
+      - [x] [Quick Sort](src/algorithms/sorting/QuickSort.java)
   - [ ] Linked List
     - [ ] Singly Linked List
     - [ ] Doubly Linked List
